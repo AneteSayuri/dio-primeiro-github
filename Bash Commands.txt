@@ -1,0 +1,7 @@
+cd is to change directory
+cd .. is to go back one level
+ld or dir is to show all files inside the folder
+git status is to show all files commited or not
+git add . will track all files in folder locally
+git commit -m "description" will commit to git
+git push origin main will send everything commited to git server.
